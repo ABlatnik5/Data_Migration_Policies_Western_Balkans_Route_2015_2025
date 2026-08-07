@@ -1,3 +1,5 @@
+<h2>ABOUT DATASET</h2>
+
 The dataset (Policies_Final.xlsx) contains the complete database of migration-related policies and key policy events used in the analysis presented in the article "A Multidimensional Framework for Evaluation of Migration Policies: Case of Post-Migration Crisis Policy Evolution in Countries on the Western Balkans Route". The dataset comprises 146 policies and key events adopted between 2015 and 2025 across nine countries on the Western Balkans migration route.
 
 <i>!!!THE DESCRIPTION IS CURRENTLY WORK IN PROGRESS!!!</i>
@@ -28,3 +30,9 @@ The file contains multiple worksheets: Sources, Croatia_Policies, Croatia_Rating
 </ul>
 
 <b>- [Country]_Rating:</b> The table within these worksheets (Croatia_Rating, Bosnia_and_Herzegovina_Rating, Serbia_Rating, North_Macedonia_Rating, Montenegro_Rating, Albania_Rating, Kosovo_Rating, Slovenia_Rating and Hungary_Rating) consists of the following elements:
+
+<h2>ABOUT MIG@B PROJECT</h2>
+You can find more information about the MIG@B Project here: https://dk.um.si/Dokument.php?id=199813&lang=eng
+
+<h2>ACKNOWLEDGEMENTS</h2>
+The work was supported by the Slovenian Research and Innovation Agency [Research program No. P1-0383, Complex networks and research projects J5-4585: “MIG@B, Modelling of international migrant flows in the Balkans” and J7-3156: “Synergistic Integration of Quantitative Sociology and STEM fields to resolve Critical Social Dilemma: the Cases of Vaccination, Migration, and Corruption”].
